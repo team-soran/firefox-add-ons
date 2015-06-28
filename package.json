@@ -1,8 +1,8 @@
 {
-  "name": "firefox-add-ons",
-  "title": "firefox-add-ons",
+  "name": "soran",
+  "title": "Soran --- Logging your music",
   "id": "jid1-AvGsyYuaOa35wA",
-  "description": "a basic add-on",
+  "description": "Soran",
   "author": "",
   "license": "MPL 2.0",
   "version": "0.1"
